@@ -1,6 +1,6 @@
-def function1(){
+def getFunction1(str){
     echo "I am function1"
 }
-def function2(str){
+def getFunction2(str){
     echo "I am function2, ${str}"
 }
